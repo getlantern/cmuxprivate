@@ -6,6 +6,8 @@ github.com/getlantern/byteexec v0.0.0-20170405023437-4cfb26ec74f4/go.mod h1:4WCQ
 github.com/getlantern/cmux v0.0.0-20200723153654-f1f4014b42e2 h1:BPWGXBZoGHDebzvqxbp82NqeJaIRT6qKMmE+RoMYJF8=
 github.com/getlantern/cmux/v2 v2.0.0-20200723153654-f1f4014b42e2 h1:GuS/f9sAbqS2B6Mj6yL+/3+khK08JvxuEFfv6lLlOIc=
 github.com/getlantern/cmux/v2 v2.0.0-20200723153654-f1f4014b42e2/go.mod h1:oJz1ghfzM796DpGP0et6Gbc3si2Zn3/7l7KxxK/KXQ0=
+github.com/getlantern/cmux/v2 v2.0.0-20200905031936-c55b16ee8462 h1:i5/Pd2raSQs59f0twxO/Fm3FaxpEsSSZKC0mxWnXumM=
+github.com/getlantern/cmux/v2 v2.0.0-20200905031936-c55b16ee8462/go.mod h1:oJz1ghfzM796DpGP0et6Gbc3si2Zn3/7l7KxxK/KXQ0=
 github.com/getlantern/context v0.0.0-20190109183933-c447772a6520 h1:NRUJuo3v3WGC/g5YiyF790gut6oQr5f3FBI88Wv0dx4=
 github.com/getlantern/context v0.0.0-20190109183933-c447772a6520/go.mod h1:L+mq6/vvYHKjCX2oez0CgEAJmbq1fbb/oNJIWQkBybY=
 github.com/getlantern/elevate v0.0.0-20180207094634-c2e2e4901072 h1:Sxd/u3rnHYAqXzpRXjOA7DPyRKYzcivMRBKtOhsRwW8=
