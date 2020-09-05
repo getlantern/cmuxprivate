@@ -37,6 +37,8 @@ github.com/getlantern/psmux v1.5.15-0.20200721161540-05db577fbb03 h1:9spu3mS5y61
 github.com/getlantern/psmux v1.5.15-0.20200721161540-05db577fbb03/go.mod h1:GtXRvtMItoflWGLPE7GNq+AdL7BnmpaaNLtDQVD1XHU=
 github.com/getlantern/psmux v1.5.15-0.20200724132516-8d76b3a1d303 h1:43xIuY8Y85e2Op+dUbRQoPI91YRgUZGnqPYTim9a3yE=
 github.com/getlantern/psmux v1.5.15-0.20200724132516-8d76b3a1d303/go.mod h1:GtXRvtMItoflWGLPE7GNq+AdL7BnmpaaNLtDQVD1XHU=
+github.com/getlantern/psmux v1.5.15-0.20200903210100-947ca5d91683 h1:Asfm7ajzavuSZC+5b+tPwXwyvlw188NM9hKM7wNMNGg=
+github.com/getlantern/psmux v1.5.15-0.20200903210100-947ca5d91683/go.mod h1:GtXRvtMItoflWGLPE7GNq+AdL7BnmpaaNLtDQVD1XHU=
 github.com/go-stack/stack v1.8.0 h1:5SgMzNM5HxrEjV0ww2lTmX6E2Izsfxas4+YHWRs3Lsk=
 github.com/go-stack/stack v1.8.0/go.mod h1:v0f6uXyyMGvRgIKkXu+yp6POWl0qKG85gN/melR3HDY=
 github.com/oxtoacart/bpool v0.0.0-20190530202638-03653db5a59c h1:rp5dCmg/yLR3mgFuSOe4oEnDDmGLROTvMragMUXpTQw=
