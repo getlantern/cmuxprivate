@@ -1,8 +1,9 @@
 cmuxprivate
 ===========
 
-Contains plugins for https://github.com/getlantern/cmux that reference
-private repositories (cmux itself is a public repository)
+Originally used for plugins https://github.com/getlantern/cmux that reference
+private repositories (cmux itself is a public repository), but should now just be cleaned up 
+and removed.
 
 
 psmux
